@@ -1,0 +1,1 @@
+<h1>Bienvenido a la plataforma ${estudiante.nombre}</h1>
