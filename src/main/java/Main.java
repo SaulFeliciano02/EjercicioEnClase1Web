@@ -1,3 +1,9 @@
+/**
+ Marcos De Mota: 20160370
+ Saul Feliciano: 20161534
+ Kiana Almonte: 20160740
+ **/
+
 import spark.ModelAndView;
 import spark.Session;
 
@@ -11,7 +17,6 @@ import java.util.Map;
 public class Main {
 
     public static void main(String[] args) {
-        //port(5050);
         ArrayList<Persona> misPersonas = new ArrayList<>();
         staticFiles.location("/publico/");
 
